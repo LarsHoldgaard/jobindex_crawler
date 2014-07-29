@@ -1,0 +1,12 @@
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\JobCrawler.exe.config
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\JobCrawler.exe
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\JobCrawler.pdb
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\CsQuery.dll
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\CsQuery.xml
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\obj\Debug\JobCrawler.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\obj\Debug\JobCrawler.exe
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\obj\Debug\JobCrawler.pdb
+D:\Dropbox\Dropbox\Programmering\JobCrawler\JobCrawler\JobCrawler\bin\Debug\jobs\Place.docx
